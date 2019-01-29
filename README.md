@@ -5,7 +5,7 @@
 Udacity Bikeshare Project
 
 ### Description
-This python data project utilizes python scripts, NumPy, and Pandas to explore
+This python data project uses python scripts, NumPy, and Pandas to explore
 US bikeshare data from Washington, New York City, and Chicago.
 
 ### Files used
