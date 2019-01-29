@@ -2,7 +2,7 @@
 1/28/19
 
 ### Project Title
-Bikeshare Project
+Udacity Bikeshare Project
 
 ### Description
 This python data project utilizes python scripts, NumPy, and Pandas to explore
