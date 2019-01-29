@@ -16,4 +16,5 @@ chicago.csv
 
 ### Credits
 This is a Udacity project from the Programming for Data Science Nanodegree with
-data provided.
+3 data files provided from US bikeshare data cities Washington, New York City,
+and Chicago.
